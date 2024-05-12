@@ -1,0 +1,1 @@
+go build cmd\mapz\main.go
